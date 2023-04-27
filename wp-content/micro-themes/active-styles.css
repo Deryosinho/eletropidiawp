@@ -1,0 +1,54 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Post 11 elementor heading title **/
+#post-11 .elementor-heading-title {
+	color: rgb(0, 128, 0) !important;
+}
+
+/** Geral >> Post 11 elementor heading title (:hover) **/
+#post-11 .elementor-heading-title {
+	color: #000 !important;
+}
+
+/** Geral >> Post 11 elementor element 1f9efde **/
+#post-11 .elementor-element-1f9efde {
+	color: rgb(64, 106, 166) !important;
+	font-style: normal !important;
+	text-decoration: none !important;
+}
+
+/** Geral >> Elementor element 6fb7592 elementor widget container **/
+.elementor-element-6fb7592 .elementor-widget-container {
+	
+}
+
+/** Geral >> Elementor element aac69bc elementor widget container **/
+.elementor-element-aac69bc .elementor-widget-container {
+	color: rgb(0, 0, 0) !important;
+}
+
+/** Geral >> Span (#2) link **/
+ul > li:nth-of-type(1) > span:nth-of-type(2) > a {
+	
+}
+
+/** Geral >> List item link (#2) +2 Mais **/
+li a:nth-of-type(2), 
+ul > li:nth-of-type(3) > span:nth-of-type(2) > a:hover, 
+ul > li:nth-of-type(1) > span:nth-of-type(2) > a:hover {
+	
+}
+
+/** Geral >> Unordered list elementor icon list item (#3) **/
+ul .elementor-icon-list-item:nth-of-type(3) {
+	
+}
+
+/** Geral >> Post 15 elementor element 7f496a5 **/
+#post-15 .elementor-element-7f496a5 {
+	
+}
+
